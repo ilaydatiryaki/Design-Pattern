@@ -2,21 +2,20 @@
 
 #### 
 
-Tasarım Desenleri, yazılımda sık karşılaşılan problemler için oluşturulmuş çözümlerdir. Kod içerisinde sıklıkla karşılaşılan sorunları çözmek amacıyla özelleştirerek kullanabileceğiniz önceden hazırlanmış planlar olarak düşünülebilir. Tasarım kalıpları bir fonksiyon, ya da sınıf gibi hazır olarak bulup kodunuza ekleyebileceğiniz parçalar değil, problem çözümü için kullanılan genel konseptlerdir.
+Design Patterns are solutions created for common problems in software. They can be thought of as pre-made plans that you can customize and use to solve frequently encountered problems in the code. Design patterns are general concepts used for problem solving, not parts that you can find out-of-the-box like a function or class and add to your code.
 
-Tasarım deseni, algoritma ile karıştırılmamalıdır. Algoritmalar bir hedefe ulaşabilecek net bir eylemler kümesi tanımlamalardır. Bir algoritmayı yemek tarifine benzetebiliriz. Kullanılacak malzemeler ve takip edilecek adımlar net olarak bellidir. Öte yandan bir tasarım kalıbı daha çok bir plan gibidir, sonuçta bekleneni ve özellikleri görürsünüz ama uygulama sırası ve şekli biraz daha size bağlıdır.
+The design pattern should not be confused with the algorithm. Algorithms are definitions of a clear set of actions that can achieve a goal. We can compare an algorithm to a recipe. The materials to be used and the steps to be followed are clearly defined. A design pattern, on the other hand, is more like a blueprint, in the end you will see the expected and features, but the order and form of implementation is a bit more up to you.
+It is a subject within object oriented programming.
 
-Nesne tabanlı programlamanın içinde olan bir konudur.  
+There are more than 250 known Design Patterns around the world. But 23 of them are used frequently.
 
-Dünya genelinde 250'den fazla bilinen Design Pattern vardır. Fakat 23 tanesi sıklıkla kullanılıyor. 
-
-Design Pattern'lar 3 gruba ayrılmıştır.
+Design Patterns are divided into 3 groups.
 
 ![photo](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2015/09/Classification-of-software-design-patterns-Edureka.png)
 
-### Creational (Oluşturucu) Patterns 
+### Creational Patterns 
 
-Nesnenin oluşturulmasını yöneten yapılardır.
+They are the structures that govern the creation of the object.
 
 Factory Method, 
 Abstract Factory Pattern, 
@@ -24,9 +23,9 @@ Singleton Design Pattern,
 Builder Design Pattern,
 Prototype Design Pattern.  
 
-### Structural (Yapısal) Patterns 
+### Structural Patterns 
 
-Nesneler arasındaki yapıları yöneten yapılardır.
+They are structures that govern structures between objects.
 
 Adapter Pattern, 
 Facade Pattern, 
@@ -36,9 +35,9 @@ Composite Pattern,
 Proxy Pattern,
 Flyweight Pattern.
 
-### Behavioral (Davranışsal) Patterns 
+### Behavioral Patterns 
 
-Nesnelerin yapılarını etkileyen ve yöneten yapılardır. 
+They are structures that affect and manage the structures of objects.
 
 Command Pattern,
 Iterator Pattern,
