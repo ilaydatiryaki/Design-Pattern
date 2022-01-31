@@ -12,6 +12,8 @@ Dünya genelinde 250'den fazla bilinen Design Pattern vardır. Fakat 23 tanesi s
 
 Design Pattern'lar 3 gruba ayrılmıştır.
 
+![photo](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2015/09/Classification-of-software-design-patterns-Edureka.png)
+
 ### Creational (Oluşturucu) Patterns 
 
 Nesnenin oluşturulmasını yöneten yapılardır.
